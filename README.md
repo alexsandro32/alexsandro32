@@ -5,22 +5,21 @@
 Me chamo Alex Sandro de Oliveira Silva, sou natural de São Paulo. Concluí a minha graduação na universidade Anhembi Morumbi, com o curso de sistemas de informações. Trabalho com Desenvolvimento de software a mais de 9 anos.
 
 <p align="left">
-   <a href="https://https://github.com/alexsandro32?tab=repositories&sort=stargazers">
+   <a href="https://www.linkedin.com/in/alex-silva-36061b29">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/alexsandro32?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Linkend" 
+            title="Linkend" 
+            src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin"
         />
     </a>
-    <a href="https://github.com/alexsandro32?tab=followers">
+    <a href="mailto:karanalpe@gmail.com">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/alexsandro32?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Gmail"
+            title="Gmail" 
+            src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com"
         />
     </a>
 </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
