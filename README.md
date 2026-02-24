@@ -148,7 +148,7 @@ Me chamo Alex Sandro de Oliveira Silva, sou natural de São Paulo. Concluí a mi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alexsandro32&show_icons=true" 
+    src="github-readme-stats2-git-main-alexsandro32.vercel.app/api?username=alexsandro32&show_icons=true" 
   />
 
 <img 
