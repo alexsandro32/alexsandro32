@@ -159,3 +159,11 @@ Me chamo Alex Sandro de Oliveira Silva, sou natural de São Paulo. Concluí a mi
   />
 
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/alexsandro32/alexsandro32/output/snake.svg" alt="Snake animation" />
+
+###
